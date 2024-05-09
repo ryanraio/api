@@ -23,6 +23,30 @@
       "genero": "Romance",
       "ano": 2024,
       "paginas": 304
+    },
+    {
+      "id": 9,
+      "titulo": "A Filha da Deusa da Lua",
+      "autor": "Sue Lynn Tan",
+      "sinopse": "A Filha da Deusa da Lua é um livro que entrelaça a antiga mitologia chinesa em uma narrativa de fantasia épica. A história segue a jornada de Xingyin, uma jovem que carrega o peso de uma linhagem divina. Sua mãe, a Deusa da Lua Chang’e, está aprisionada, e somente Xingyin pode libertá-la. Ao longo de sua busca, ela enfrenta o imortal mais poderoso do reino, trilhando um caminho repleto de perigos, onde o amor compete com a honra e os sonhos são marcados pela traição. A esperança, no entanto, emerge triunfante em meio a sacrifícios e magia",
+      "imagem": "https://m.media-amazon.com/images/I/81xq1VnxB1L._SY466_.jpg",
+      "avaliacao": 4.7,
+      "editora": "Alta Novel",
+      "genero": "Fantasia e Ficção Científica",
+      "ano": 2023,
+      "paginas": 512
+    },
+    {
+      "id": 10,
+      "titulo": "Ela se tornou o Sol",
+      "autor": "Shelley Parker-Chan",
+      "sinopse": "Desesperada para escapar da própria morte predestinada, a garota usa a identidade do irmão para viver num monastério como um jovem noviço. Lá, impulsionada pelo desejo ardente de sobreviver, Zhu aprende que é capaz de fazer o que for preciso, não importa o quanto seja cruel, para continuar escondida de seu destino.",
+      "imagem": "https://m.media-amazon.com/images/I/718QC3iHFlL._SY466_.jpg",
+      "avaliacao": 4.4,
+      "editora": "Alta Novel",
+      "genero": "Fantasia, Horror e Ficção Científica",
+      "ano": 2023,
+      "paginas": 416
     }
   ]
 }
