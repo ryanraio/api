@@ -1,28 +1,28 @@
 {
   "livros": [
-    {
-      "id": 1,
-      "titulo": "Mariposa Vermelha",
-      "autor": "Autor Desconhecido",
-      "resumo": "Na cidade de Fragária, sob o domínio da República, a magia é proibida, e Amarílis conhece como ninguém o perigo de quebrar as regras. Para evitar o destino trágico que teve sua mãe, a jovem tecelã mantém a cabeça baixa e os fios de seus poderes bem amarrados. Quando, por acaso, se vê diante do homem que causou a ruína de sua família, Amarílis decide convocar um demônio e fazer um pacto: ela quer a morte do general que destruiu sua mãe.",
-      "imagem": "./img/mariposa_vermelha.jpg",
-      "avaliacao": 4.8
-    }
-  ],
-  "usuarios": [
-    {
-     "id": 1,
-      "nome": "Usuario Teste",
-      "senha": "senha123",
-      "sobre": "Eu sou apenas um usuario de testes",
-      "foto": "https://static.vecteezy.com/system/resources/thumbnails/002/534/006/small/social-media-chatting-online-blank-profile-picture-head-and-body-icon-people-standing-icon-grey-background-free-vector.jpg"
+   {
+      "id": 7,
+      "titulo": "Uma Pitada de Sorte",
+      "autor": "Baldassari G. B.",
+      "sinopse": "E se um livro te indicasse uma pessoa? Amélia é uma jovem chef de cozinha que busca sucesso dentro da alta gastronomia. Depois de uma entrevista de emprego desastrosa, ela vê sua coleção de fracassos aumentar. As coisas também não vão bem no quesito amor, e ela sente que precisa, desesperadamente, de uma volta por cima. Decidida a dar uma chance ao destino, Amélia deixa um bilhete com seu endereço de e-mail dentro do seu livro preferido e o vende em um sebo. Se tudo der certo, ele vai trazer a garota dos seus sonhos. Simples assim. Exceto que, para Amélia, nada acontece de forma simples ou sem muita confusão. Uma pitada de sorte é um romance sáfico que tem como pano de fundo o charme de um inverno em Buenos Aires e a nostalgia do ano de 2007. Uma história com protagonismo feminino, amizades reais e uma mãozinha do destino.",
+      "imagem": "https://m.media-amazon.com/images/I/819s5QB6euL._SY466_.jpg",
+      "avaliacao": 4.8,
+      "editora": "Companhia Editora Nacional",
+      "genero": "Romance LGBT+",
+      "ano": 2024,
+      "paginas": 296
     },
     {
-      "id": 2,
-      "nome": "Ryan",
-      "senha": "123",
-      "sobre": "Eu não sei oque colocar",
-      "foto": "https://i.pinimg.com/originals/30/33/0b/30330b5e8e0f772f0edaa310294703a2.jpg"
+      "id": 8,
+      "titulo": "No Calor do Momento",
+      "autor": "Hannah Grace",
+      "sinopse": "Em mais uma festa na casa dos jogadores de hóquei do campus de Maple Hills, os caminhos do atleta Russ Callaghan e da estudante Aurora Roberts se cruzam durante uma brincadeira que acaba ficando muito mais quente do que esperavam. Aurora, que sabe que noites de sexo casual têm hora para acabar (e que mantém as expectativas bem baixas em relação a homens em geral), vai embora sem se despedir e nem mesmo dizer seu nome completo ou telefone. Russ, apesar de magoado, pensa que talvez seja melhor assim: vai passar as férias trabalhando em um acampamento e a última coisa que precisa é de distrações… Isto é, até chegar lá e descobrir que uma de suas colegas de trabalho é ninguém menos que a própria Aurora. E o pior: uma das principais regras do lugar é nada de relacionamentos entre os funcionários! Ela, determinada a deixar a reputação de encrenqueira para trás, e ele, que precisa desse emprego mais do que nunca por conta de problemas familiares, estão em um impasse. Os dois têm muitos motivos para manter a distância, mas claramente a química entre eles segue tão forte quanto antes. Será que Russ e Aurora serão capazes de conviver somente como amigos ou acharão impossível não se deixar levar pelo calor do momento?",
+      "imagem": "https://m.media-amazon.com/images/I/81NPs0WZeeL._SY466_.jpg",
+      "avaliacao": 4.2,
+      "editora": "Fábrica231",
+      "genero": "Romance",
+      "ano": 2024,
+      "paginas": 304
     }
   ]
 }
